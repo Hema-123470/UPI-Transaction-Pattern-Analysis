@@ -1,0 +1,5 @@
+amount_bucket,total_transactions,total_value,avg_amount,pct_of_total
+Small (≤500),458,128169.67,279.85,4.58
+Medium (501–2000),1943,2429868.61,1250.58,19.43
+Large (2001–10000),3092,13982717.19,4522.22,30.92
+Very Large (>10000),4507,133283990.21,29572.66,45.07

@@ -1,0 +1,16 @@
+sender_bank,receiver_bank,transaction_count,total_value
+Hdfc Bank,Federal Bank,65,1034924.76
+Federal Bank,Paytm Payments Bank,61,781167.78
+Canara Bank,Union Bank Of India,58,903229.93
+Rbl Bank,Sbi,58,832960.11
+Canara Bank,Indusind Bank,57,957910.24
+Bank Of Baroda,Canara Bank,57,741905.9
+Bank Of Baroda,Punjab National Bank,56,858406.76
+Hdfc Bank,Axis Bank,56,859273.18
+Icici Bank,Idfc First Bank,56,938205.38
+Indusind Bank,Bank Of Baroda,56,698256.18
+Indusind Bank,Yes Bank,56,966541.36
+Idfc First Bank,Yes Bank,56,777308.89
+Yes Bank,Canara Bank,56,952153.49
+Canara Bank,Hdfc Bank,56,887267.37
+Federal Bank,Yes Bank,55,713565.39

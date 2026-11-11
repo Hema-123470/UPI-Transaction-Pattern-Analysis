@@ -1,0 +1,38 @@
+==============================================================
+  UPI TRANSACTION PATTERN ANALYSIS
+  Phase 2 – Key Business Insights
+==============================================================
+
+INSIGHT 1 – Scale:
+  The dataset covers 10,000 UPI transactions worth ₹149,824,746 (≈ ₹14.98 Crore) over Jan–Sep 2024.
+
+INSIGHT 2 – Reliability:
+  87.6% of transactions succeeded. Failure rate is 9.3%, which translates to 929 failed transactions and a potential revenue leakage of ₹13,986,974.
+
+INSIGHT 3 – Peak Usage:
+  Transactions peak at 04:00 hrs (457 transactions). 'Night' is the busiest time-of-day segment. Banks and support teams should staff up during these hours.
+
+INSIGHT 4 – Merchant Categories:
+  'Salary/Transfer' generates the highest transaction value.
+  'Rent' has the most transactions by count.
+  'Emi/Loan' has the highest failure rate (10.6%) — investigate payment gateway issues.
+
+INSIGHT 5 – Payment Type:
+  P2M (merchant payments) account for 55.7% of count but 46.7% of total value (₹69,979,404), indicating higher ticket sizes in merchant payments.
+
+INSIGHT 6 – Geography & Banking:
+  'Tamil Nadu' leads in transaction count. 'Hdfc Bank' is the top sender bank. 'Paytm' is the most-used UPI app.
+
+INSIGHT 7 – Weekend Spending:
+  Weekend average transaction amount (₹15,167) is higher than weekdays (₹14,911) by 1.7%, suggesting leisure/entertainment spending peaks on weekends.
+
+INSIGHT 8 – High-Value Transactions:
+  4,507 transactions (45.1%) are high-value (>₹10,000), accounting for ₹89.0% of total value. Top categories: Salary/Transfer, Rent, Emi/Loan.
+
+INSIGHT 9 – Monthly Growth:
+  Transaction value grew from ₹17,769,773 (January) to ₹16,673,114 (September), a decline of 6.2%.
+
+INSIGHT 10 – Device Adoption:
+  'Android' dominates with 60.4% of transactions. Feature Phone (*99#) usage reflects UPI adoption in semi-urban/rural areas.
+
+==============================================================

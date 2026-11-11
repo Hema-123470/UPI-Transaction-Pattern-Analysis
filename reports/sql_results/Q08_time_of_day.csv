@@ -1,0 +1,5 @@
+time_of_day,total_transactions,total_value,avg_amount
+Morning,2429,36819051.58,15158.11
+Afternoon,2108,32311152.02,15327.87
+Evening,1668,24439377.15,14651.9
+Night,3795,56255164.93,14823.5

@@ -1,0 +1,16 @@
+Category,FAILED,PENDING,SUCCESS,FailureRate%
+Education,61,29,583,9.06
+Emi/Loan,69,15,566,10.62
+Entertainment,39,38,555,6.17
+Food & Dining,64,17,602,9.37
+Fuel,61,27,566,9.33
+Groceries,61,16,598,9.04
+Healthcare,65,17,562,10.09
+Insurance,70,16,586,10.42
+Investments,42,16,557,6.83
+Rent,69,26,607,9.83
+Salary/Transfer,67,20,580,10.04
+Shopping,66,20,614,9.43
+Transportation,66,13,580,10.02
+Travel,65,18,602,9.49
+Utilities,64,19,606,9.29

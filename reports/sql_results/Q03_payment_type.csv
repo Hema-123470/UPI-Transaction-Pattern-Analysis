@@ -1,0 +1,3 @@
+PaymentType,total_count,total_value,avg_amount,min_amount,max_amount,success_count,success_rate
+P2M,5566,69979404.2,12572.66,38.48,53508.38,4877,87.62
+P2P,4434,79845341.48,18007.52,36.73,53508.38,3887,87.66

@@ -1,0 +1,2 @@
+total_transactions,total_value,avg_amount,median_amount,min_amount,max_amount,std_deviation
+10000,149824745.68,14982.47,7032.72,36.73,53508.38,16697.04

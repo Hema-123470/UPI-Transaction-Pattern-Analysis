@@ -1,0 +1,73 @@
+============================================================
+ UPI Transaction Pattern Analysis
+ Phase 1 – Preprocessing Report
+============================================================
+
+Raw records             : 10,000
+Records after cleaning  : 10,000
+Columns (final)         : 25
+Date range              : 2024-01-01  →  2024-09-30
+Amount (post-cap) range : ₹36.73  –  ₹53,508.38
+Total transaction value : ₹149,824,745.68
+
+STATUS DISTRIBUTION
+Status
+SUCCESS    8764
+FAILED      929
+PENDING     307
+
+PAYMENT TYPE
+PaymentType
+P2M    5566
+P2P    4434
+
+TOP 5 CATEGORIES BY VOLUME
+Category
+Salary/Transfer    31971868.05
+Investments        23597326.71
+Rent               18513798.14
+Emi/Loan           16894065.84
+Education          16568037.61
+
+TOP 5 STATES BY TRANSACTION COUNT
+State
+Tamil Nadu       874
+Uttar Pradesh    857
+West Bengal      855
+Punjab           850
+Rajasthan        843
+
+TOP 5 BANKS (SENDER) BY TRANSACTION COUNT
+SenderBank
+Hdfc Bank               728
+Canara Bank             721
+Federal Bank            691
+Icici Bank              682
+Punjab National Bank    677
+
+UPI APP USAGE
+UPIApp
+Paytm                   1024
+Mobikwik                1024
+Phonepe                 1019
+Amazon Pay              1011
+Freecharge              1007
+Airtel Payments Bank    1003
+Bhim                     988
+Google Pay               988
+Imobile Pay              985
+Whatsapp Pay             951
+
+TIME OF DAY DISTRIBUTION
+TimeOfDay
+Night        3795
+Morning      2429
+Afternoon    2108
+Evening      1668
+
+AMOUNT BUCKET DISTRIBUTION
+AmountBucket
+Very Large (>10000)    4507
+Large (2001–10000)     3092
+Medium (501–2000)      1943
+Small (≤500)            458

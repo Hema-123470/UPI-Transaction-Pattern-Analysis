@@ -1,0 +1,4 @@
+device,total_transactions,total_value,avg_amount,success_rate_pct
+Android,6039,90871730.53,15047.48,87.76
+Ios,3451,51312988.6,14869.02,87.74
+Feature Phone (*99#),510,7640026.55,14980.44,85.49

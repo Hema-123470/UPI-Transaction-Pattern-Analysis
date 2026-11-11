@@ -1,0 +1,81 @@
+==============================================================
+  UPI TRANSACTION PATTERN ANALYSIS
+  Phase 2 – EDA Summary Statistics
+==============================================================
+
+── OVERVIEW ─────────────────────────────────────────────
+  Date Range              : 2024-01-01  →  2024-09-30
+  Total Transactions      :     10,000
+  Total Value             : ₹ 149,824,745.68
+  Total Value (SUCCESS)   : ₹ 131,570,283.49
+
+── TRANSACTION AMOUNT ───────────────────────────────────
+  Average Amount          : ₹   14,982.47
+  Median Amount           : ₹    7,032.72
+  Std Deviation           : ₹   16,697.04
+  Minimum Amount          : ₹       36.73
+  Maximum Amount          : ₹   53,508.38
+  Avg Amount (SUCCESS)    : ₹   15,012.58
+
+── TRANSACTION STATUS ───────────────────────────────────
+  Successful              :   8,764  (87.64%)
+  Failed                  :     929  (9.29%)
+  Pending                 :     307
+
+── PAYMENT TYPE ─────────────────────────────────────────
+  P2P (Person-to-Person)  :   4,434  |  ₹ 79,845,341.48
+  P2M (Person-to-Merchant):   5,566  |  ₹ 69,979,404.20
+
+── PEAK TIME ANALYSIS ───────────────────────────────────
+  Peak Month              : March
+  Peak Day of Week        : Monday
+  Peak Hour               : 04:00
+  Peak Time of Day        : Night
+
+── WEEKEND VS WEEKDAY ───────────────────────────────────
+  Weekday Transactions    :   7,215  |  Avg ₹ 14,911.25
+  Weekend Transactions    :   2,785  |  Avg ₹ 15,166.99
+
+── TOP PERFORMERS ───────────────────────────────────────
+  Top Category (Count)    : Rent
+  Top Category (Value)    : Salary/Transfer
+  Top State (Count)       : Tamil Nadu
+  Top State (Value)       : Uttar Pradesh
+  Top Sender Bank         : Hdfc Bank
+  Top UPI App             : Paytm
+
+── CATEGORY BREAKDOWN ───────────────────────────────────
+                 Count      TotalValue    AvgValue
+Category                                          
+Rent               702  ₹18,513,798.14  ₹26,372.93
+Shopping           700   ₹8,831,994.44  ₹12,617.13
+Utilities          689   ₹1,759,741.17   ₹2,554.05
+Travel             685  ₹10,226,866.45  ₹14,929.73
+Food & Dining      683     ₹902,470.67   ₹1,321.33
+Groceries          675   ₹1,710,942.34   ₹2,534.73
+Education          673  ₹16,568,037.61  ₹24,618.18
+Insurance          672   ₹8,557,055.50  ₹12,733.71
+Salary/Transfer    667  ₹31,971,868.05  ₹47,933.84
+Transportation     659     ₹666,119.08   ₹1,010.80
+Fuel               654   ₹1,752,264.03   ₹2,679.30
+Emi/Loan           650  ₹16,894,065.84  ₹25,990.87
+Healthcare         644   ₹6,264,903.04   ₹9,728.11
+Entertainment      632   ₹1,607,292.61   ₹2,543.18
+Investments        615  ₹23,597,326.71  ₹38,369.64
+
+── STATE-WISE TRANSACTION COUNT ─────────────────────────
+State
+Tamil Nadu        874
+Uttar Pradesh     857
+West Bengal       855
+Punjab            850
+Rajasthan         843
+Delhi             841
+Maharashtra       837
+Telangana         830
+Madhya Pradesh    818
+Kerala            810
+Gujarat           793
+Karnataka         792
+
+==============================================================

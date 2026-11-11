@@ -1,0 +1,21 @@
+TransactionID,TransactionDate,Amount,Category,SenderBank,State,Status
+aa8346f4-6164-7c5c-1cfe-57922af06f48,2024-09-29,53508.38,Investments,Paytm Payments Bank,Uttar Pradesh,SUCCESS
+8bc90792-a499-0739-869e-bbf47343aa18,2024-09-28,53508.38,Salary/Transfer,Canara Bank,Rajasthan,SUCCESS
+10735bfe-4708-e9be-8441-a5ed96e68300,2024-09-28,53508.38,Investments,Yes Bank,Maharashtra,SUCCESS
+fb3431dd-671f-a59b-8730-130caf6c9f36,2024-09-28,53508.38,Salary/Transfer,Federal Bank,Rajasthan,SUCCESS
+d1a079ca-e065-5ad4-adcd-ed2d4bc8dc2c,2024-09-28,53508.38,Investments,Paytm Payments Bank,Uttar Pradesh,SUCCESS
+c590f851-fb38-5671-3b45-d977c2896a30,2024-09-26,53508.38,Salary/Transfer,Icici Bank,Tamil Nadu,SUCCESS
+4a0ca727-41e0-414c-7301-c4659d51e536,2024-09-26,53508.38,Salary/Transfer,Icici Bank,Telangana,FAILED
+b997959e-a898-852b-3e8f-9f415d9b761e,2024-09-25,53508.38,Salary/Transfer,Kotak Mahindra Bank,West Bengal,SUCCESS
+02d93e9d-43fb-118b-3373-912c65c3ffc3,2024-09-25,53508.38,Investments,Rbl Bank,Maharashtra,SUCCESS
+e29d9f4f-49de-739e-9b17-8b33139871f9,2024-01-08,53508.38,Salary/Transfer,Union Bank Of India,Delhi,SUCCESS
+2415dca9-f079-912d-50f7-4fa7da23241e,2024-01-08,53508.38,Salary/Transfer,Union Bank Of India,West Bengal,SUCCESS
+ece063f0-1ed4-b1ea-89a6-c6537421684e,2024-01-08,53508.38,Salary/Transfer,Union Bank Of India,Madhya Pradesh,PENDING
+02c17b29-aa10-57f3-1469-7bc3360eeb51,2024-01-07,53508.38,Salary/Transfer,Idfc First Bank,Madhya Pradesh,SUCCESS
+2fbb470f-000b-11f3-046b-a92786802b8c,2024-01-07,53508.38,Salary/Transfer,Kotak Mahindra Bank,Rajasthan,SUCCESS
+a6090ad9-e3b4-bfbc-0434-af82a27fb1cb,2024-01-07,53508.38,Salary/Transfer,Idfc First Bank,Gujarat,SUCCESS
+4007386b-2a44-8f41-bdcf-e928af767ec9,2024-09-24,53508.38,Investments,Federal Bank,Delhi,SUCCESS
+ae01e83a-44d8-c456-63d2-2768aec15506,2024-09-23,53508.38,Salary/Transfer,Sbi,Punjab,SUCCESS
+82e3546d-2ae0-c0f9-e808-08cf9acfeecf,2024-09-23,53508.38,Salary/Transfer,Hdfc Bank,Madhya Pradesh,SUCCESS
+7ffc3602-d631-a545-51ba-adf758f7a675,2024-09-23,53508.38,Salary/Transfer,Punjab National Bank,Tamil Nadu,SUCCESS
+7be37151-18af-da08-076b-b877bce008f0,2024-09-23,53508.38,Salary/Transfer,Yes Bank,West Bengal,FAILED
