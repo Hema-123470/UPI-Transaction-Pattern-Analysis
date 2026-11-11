@@ -1,0 +1,46 @@
+Status,sender_bank,txn_count
+FAILED,Axis Bank,54
+FAILED,Bank Of Baroda,63
+FAILED,Canara Bank,77
+FAILED,Federal Bank,62
+FAILED,Hdfc Bank,63
+FAILED,Icici Bank,59
+FAILED,Idfc First Bank,51
+FAILED,Indusind Bank,58
+FAILED,Kotak Mahindra Bank,70
+FAILED,Paytm Payments Bank,63
+FAILED,Punjab National Bank,61
+FAILED,Rbl Bank,49
+FAILED,Sbi,71
+FAILED,Union Bank Of India,58
+FAILED,Yes Bank,70
+PENDING,Axis Bank,24
+PENDING,Bank Of Baroda,17
+PENDING,Canara Bank,19
+PENDING,Federal Bank,18
+PENDING,Hdfc Bank,28
+PENDING,Icici Bank,22
+PENDING,Idfc First Bank,22
+PENDING,Indusind Bank,20
+PENDING,Kotak Mahindra Bank,18
+PENDING,Paytm Payments Bank,17
+PENDING,Punjab National Bank,23
+PENDING,Rbl Bank,21
+PENDING,Sbi,18
+PENDING,Union Bank Of India,18
+PENDING,Yes Bank,22
+SUCCESS,Axis Bank,591
+SUCCESS,Bank Of Baroda,582
+SUCCESS,Canara Bank,625
+SUCCESS,Federal Bank,611
+SUCCESS,Hdfc Bank,637
+SUCCESS,Icici Bank,601
+SUCCESS,Idfc First Bank,553
+SUCCESS,Indusind Bank,595
+SUCCESS,Kotak Mahindra Bank,568
+SUCCESS,Paytm Payments Bank,543
+SUCCESS,Punjab National Bank,593
+SUCCESS,Rbl Bank,583
+SUCCESS,Sbi,564
+SUCCESS,Union Bank Of India,580
+SUCCESS,Yes Bank,538
